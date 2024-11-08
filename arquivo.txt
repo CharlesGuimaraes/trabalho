@@ -1,2 +1,3 @@
 Este é o meu primeiro commit!
 Mais alterações na branch master.
+Alterações na branch nova-branch.
